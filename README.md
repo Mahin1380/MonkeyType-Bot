@@ -96,4 +96,4 @@ if elapsed_time >= 30:
 - **Timer Duration**: Change the `30` value in the `if elapsed_time >= 30:` line to customize the time limit.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Apache 2.0 License.
